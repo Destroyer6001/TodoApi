@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Aplication\Controllers\CategoryController.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Aplication\Controllers\TaskController.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Domain\Services\CategoryService.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Domain\Services\TaskService.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\DTOs\ApiResponseDTO.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\DTOs\CategoryDTO.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\DTOs\CategoryListDTO.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\DTOs\TaskDTO.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\DTOs\TaskListDTO.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\Interface\ICategory.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\Interface\ITask.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\Models\CategoryEntity.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\Models\TaskEntity.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\Infraestructure\Security\CorsConfig.java
+C:\Users\User\Downloads\ToDoAPI\src\main\java\com\fulldevcode\ToDoAPI\ToDoApiApplication.java
