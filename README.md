@@ -57,6 +57,50 @@ mvn spring-boot:run
 
 La aplicación estará disponible en: `http://localhost:8080/api`
 
+# 📋 Endpoints API ToDo List
+
+## 📊 Endpoints Disponibles
+
+### **Categorías**
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `https://todoapi-op0h.onrender.com/api/categories` | Obtiene todas las categorías |
+| **GET** | `https://todoapi-op0h.onrender.com/api/categories/{id}` | Obtiene categoría por ID |
+| **POST** | `https://todoapi-op0h.onrender.com/api/categories` | Crea una nueva categoría |
+| **PUT** | `https://todoapi-op0h.onrender.com/api/categories/{id}` | Actualiza categoría existente |
+| **DELETE** | `https://todoapi-op0h.onrender.com/api/categories/{id}` | Elimina una categoría |
+
+### **Tareas**
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `https://todoapi-op0h.onrender.com/api/tasks` | Obtiene todas las tareas |
+| **GET** | `https://todoapi-op0h.onrender.com/api/tasks/{id}` | Obtiene tarea por ID |
+| **POST** | `https://todoapi-op0h.onrender.com/api/tasks` | Crea una nueva tarea |
+| **PUT** | `https://todoapi-op0h.onrender.com/api/tasks/{id}` | Actualiza tarea existente |
+| **PATCH** | `https://todoapi-op0h.onrender.com/api/tasks/{id}` | Cambia estado de la tarea |
+| **DELETE** | `https://todoapi-op0h.onrender.com/api/tasks/{id}` | Elimina una tarea |
+
+## 🔑 Parámetros
+
+### Path Parameters
+- `{id}`: ID del recurso (categoría o tarea)
+
+## 📄 Formato de Respuesta
+
+Todas las respuestas siguen el formato `ApiResponseDTO<T>`:
+```json
+{
+  "success": true,
+  "message": "Operación exitosa",
+  "data": { ... },
+  "timestamp": "2024-01-15T10:30:00Z"
+}
+```
+## 🔗 URL Base
+```
+https://todoapi-op0h.onrender.com
+```
+
 ## 🔗 Enlace para Clonar
 
 ```bash
